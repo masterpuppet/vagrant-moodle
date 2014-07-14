@@ -7,7 +7,7 @@ vagrant-moodle
 
 2. Install the vagrant berkshelf plugin: ```vagrant plugin install berkshelf-vagrant```
 
-3. Clone this project ```git clone https://github.com/mediacore/moodle-box.git```
+3. Clone this project ```git clone https://github.com/masterpuppet/vagrant-moodle.git```
 
 4. Finally run ```vagrant up``` to start and provision the VM.
 
